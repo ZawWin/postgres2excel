@@ -7,9 +7,11 @@ This utility script was developed as part of the project that requires me to con
 ## The Setup
 The script has 4 main components.
 1. Collect the connection strings of the sites you are connecting
-2. Gathering user input such as username, password, output folder location, output file
-3. Function to execute the intake of any sql file
-4. Putting together the above 3 steps in a logical order and executing them
+2.
+  a. The user has an option to enter information in a config file.
+  b. Alternatively, Gathering user input such as username, password, output folder location, output file during the run time.
+4. Function to execute the intake of any sql file
+5. Putting together the above 3 steps in a logical order and executing them
 
 ## How to execute
 1. Copy the .py script to your local folder.
