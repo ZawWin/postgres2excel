@@ -1,4 +1,4 @@
-# Self-serve python script to generate excel from database
+# Self-serve python script to generate excel or csv from multiple databases at once
 
 
 ## Project Background
